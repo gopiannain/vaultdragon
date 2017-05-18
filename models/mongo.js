@@ -1,5 +1,5 @@
 var mongoose    =   require("mongoose");
-mongoose.connect('mongodb://localhost:27017/vaultDb');
+
 var mongoSchema =   mongoose.Schema;
 var KVSchema  = {
     "key" : String,

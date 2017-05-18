@@ -1,25 +1,25 @@
 {
-  "name": "nodeMongo",
+  "name": "VersionControlled",
   "version": "1.0.0",
-  "description": "Node.js and MongoDb tutorial.",
+  "description": "Node.js and Vault Dragon Test.",
   "main": "Server.js",
   "scripts": {
-    "test": "mocha"
+    "script1": "node Server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/codeforgeek/Node-and-mongo-tutorial"
+    "url": "https://github.com/gopiannain/vaultdragon/"
   },
   "keywords": [
     "Node.js",
     "mongoDb"
   ],
-  "author": "Shahid Shaikh",
+  "author": "Gopinathan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/codeforgeek/Node-and-mongo-tutorial/issues"
+    "url": "https://github.com/gopiannain/vaultdragon/"
   },
-  "homepage": "https://github.com/codeforgeek/Node-and-mongo-tutorial",
+  "homepage": "https://github.com/gopiannain/vaultdragon/",
   "dependencies": {
     "body-parser": "^1.13.3",
     "express": "^4.13.3",
